@@ -1,1 +1,1 @@
-# Chosco-Fraimwork
+# Chosco-Framework
